@@ -8,4 +8,11 @@
 | 4 | logistic | 0.2 | 0.7989 | Auto-logged run |
 | 5 | decision_tree | 0.2 | 0.7989 | Auto-logged run |
 | 6 | random_forest | 0.2 | 0.8268 | Auto-logged run |
+| 7 | logistic | 0.2 | 0.7989 | Auto-logged run |
+| 8 | decision_tree | 0.2 | 0.7989 | Auto-logged run |
+| 9 | random_forest | 0.2 | 0.8268 | Auto-logged run |
+| 10 | logistic | 0.2 | 0.7989 | Auto-logged run |
+| 11 | random_forest | 0.2 | 0.8268 | Auto-logged run |
+| 12 | logistic | 0.3 | 0.8060 | Auto-logged run |
+| 13 | decision_tree | 0.2 | 0.7989 | Auto-logged run |
 
