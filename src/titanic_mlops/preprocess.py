@@ -25,7 +25,7 @@ def main():
     PROCESSED_DATA.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(PROCESSED_DATA, index=False)
 
-    print(f"Processed data saved to {PROCESSED_DATA}")
+    print("Preprocessing completed!")
 
 
 if __name__ == "__main__":
