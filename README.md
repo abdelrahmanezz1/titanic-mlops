@@ -34,3 +34,4 @@ A simple machine learning project to demonstrate MLOps practices on the Titanic 
    uv run python src/titanic_mlops/train.py model.type=random_forest
    uv run python src/titanic_mlops/evaluate.py
    ```
+**This line will be reverted.**
